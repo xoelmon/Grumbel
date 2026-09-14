@@ -28,3 +28,6 @@ Desarrollada en Ren`py
   build final publicada.
 
 ---
+
+Nota: los assets visuales y de audio utilizados son recursos libres de
+terceros. Mi trabajo se centró en el diseño técnico y la programación.
