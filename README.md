@@ -1,17 +1,18 @@
 # Grumbel
 
-Demo de acción/supervivencia desarrollada en Unity. Este repositorio contiene el proyecto Unity completo.
+Demo de acción/supervivencia desarrollada en Ren`Py. Este repositorio contiene el proyecto completo.
 
-Demo jugable: https://lagartixa-soundlab.itch.io/
+Demo jugable: https://lagartixa-soundlab.itch.io/grumbel
 Autor: Xoel Mon López -- www.linkedin.com/in/xoelmonlopez/
 
 ---
 
 # Sobre el proyecto
 
-Grumbel es una demo de novela visual corta en la que el jugador tiene que tomar diferentes deciciones.
+Grumbel es una demo de novela visual corta en la que el jugador tiene que tomar diferentes deciciones
+las cuales llevarán a Grumbel a diferentes situaciones.
 
-Unity versión 6000.0.54f1 LTS 
+Desarrollada en Ren`py 
 
 ---
 
