@@ -1,6 +1,6 @@
 # Grumbel
 
-Demo de acción/supervivencia desarrollada en Ren`Py. Este repositorio contiene el proyecto completo.
+Novela visual desarrollada en Ren`Py. Este repositorio contiene el proyecto completo.
 
 Demo jugable: https://lagartixa-soundlab.itch.io/grumbel
 Autor: Xoel Mon López -- www.linkedin.com/in/xoelmonlopez/
